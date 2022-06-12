@@ -11,4 +11,6 @@ module.exports = class JCVD {
   entrenar() {
     this.fuerza = this.fuerza + 50
   }
+
+  
 }
