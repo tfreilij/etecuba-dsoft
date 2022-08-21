@@ -1,5 +1,5 @@
 
-module.exports = class Batman {
+export class Batman {
 
   facturas: number
   nombre: String

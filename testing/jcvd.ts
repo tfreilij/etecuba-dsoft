@@ -1,5 +1,5 @@
 
-module.exports = class JCVD {
+export class JCVD {
 
   fuerza: number
   nombre: String
